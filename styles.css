@@ -9,3 +9,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.card {
+    margin: 20px; 
+    height: 600px;   /* Espacio entre las tarjetas */
+}
